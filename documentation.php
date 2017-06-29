@@ -739,7 +739,7 @@
                   <label for="athletic">Athletic 502 </label>
                 </li>
                 <li id="double">
-                  &nbsp;&nbsp;<input id="quantiathle" name="quantithle" type="number" min='0' class="validate"/>
+                  &nbsp;&nbsp;<input id="quantiathle" name="quantiathle" type="number" min='0' class="validate"/>
                   <label for="quantiathle">quantité</label> 
                 </li>
                 </div>
