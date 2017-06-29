@@ -666,6 +666,16 @@
                   <label for="quantigodet">quantité</label> 
                 </li>
                 </div>
+                <div> 
+                <li id="double">       
+                <input type="checkbox" class="filled-in" name="manutention[4]" value="elevateur" id="elevateur"/>
+                  <label for="elevateur">Elevateurs </label>
+                </li>
+                <li id="double">
+                  &nbsp;&nbsp;<input id="quantielevateur" name="quantielevateur" type="number" min='0' class="validate"/>
+                  <label for="quantielevateur">quantité</label> 
+                </li>
+                </div>
               </ul>
             </div>
           </li>
@@ -721,6 +731,16 @@
                 <li id="double">
                   &nbsp;&nbsp;<input id="quantialpi" name="quantialpi" type="number" min='0' class="validate"/>
                   <label for="quantialpi">quantité</label> 
+                </li>
+                </div>
+                <div>
+                  <li id="double">        
+                <input type="checkbox" class="filled-in" name="entretien[5]" value="athletic" id="athletic"/>
+                  <label for="athletic">Athletic 502 </label>
+                </li>
+                <li id="double">
+                  &nbsp;&nbsp;<input id="quantiathle" name="quantithle" type="number" min='0' class="validate"/>
+                  <label for="quantiathle">quantité</label> 
                 </li>
                 </div>
               </ul>
